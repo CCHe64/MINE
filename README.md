@@ -1,1 +1,2 @@
-# MINE: Multiview Interval Node Ensemble via Hypergraph Learning for Time Series Classification
+# MINE: Multiview Interval Node Ensemble
+A new Interval-based time series classification algorithm MINE
